@@ -1,0 +1,59 @@
+# Legend/Readme for Datasets
+### Cranial Data
+http://datadryad.org/resource/doi:10.5061/dryad.6h722
+Felidae Cranial data
+This data includes skull measurements for 35 species in the family Felidae, Order Carnivora.
+This data was collected by Julie Meachen-Samuels between 2003 and 2008. Address all questions to meachensamuels@nescent.org
+
+All measurements are in mm, missing data are left as blank spaces.
+
+
+For skull measurements, refer to Meachen-Samuels and Van Valkenburgh (2009) Biological Journal of the Linnean Society.
+
+Museum legend:
+
+FMNH – Field Museum of Natural History
+LACM – Natural History Museum of Los Angeles County
+MVZ – Museum of Vertebrate Zoology, University of California, Berkeley
+UCLA – Donald R. Dickey Collection of Birds and Mammals, University of California, Los Angeles
+USNM – U.S. Museum of Natural History, Smithsonian
+
+### Forelimb Data
+http://datadryad.org/resource/doi:10.5061/dryad.1fh61
+Felidae and Canidae postcranial database
+This data includes forelimb measurements for 31 species in the family Felidae, and 17 species in the family Canidae, Order Carnivora.
+This data was collected by Julie Meachen-Samuels between 2003 and 2008. Address all questions to meachensamuels@nescent.org
+
+All measurements are in mm, missing data are left as blank spaces.
+
+Measurement legend:
+
+U – ulna
+R – radius
+Hum – humerus
+Mc2 – metacarpal 2
+Mc3 – metacarpal 3
+Phprox  - proximal phalanx
+Scapho - scapholunar
+
+
+GL – greatest length
+LO – length of olecranon process
+BS – mediolateral diameter at midshaft
+MLP – mediolateral measurement of the proximal end
+APP – anteroposterior measurement of the proximal end
+MLD – mediolateral measurement of the distal end
+APD – anteroposterior measurement of the distal end
+MLFD – mediolateral measurement of the articular surface of the distal end
+APFD – anteroposterior measurement of the articular surface of the distal end
+HTL – widest measurement of the trochlea and condyle
+PAL – longest length of the scapholunar articular surface
+PAW – width of the scapholunar articular surface
+
+Museum legend:
+
+FMNH – Field Museum of Natural History
+LACM – Natural History Museum of Los Angeles County
+MVZ – Museum of Vertebrate Zoology, University of California, Berkeley
+UCLA – Donald R. Dickey Collection of Birds and Mammals, University of California, Los Angeles
+USNM – U.S. Museum of Natural History, Smithsonian
